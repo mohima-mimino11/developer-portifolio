@@ -16,6 +16,10 @@
     border-radius: 5px;
     background: #FD6E0A;
     color: #FFFFFF;
+    
+}
+.btn-primary i{
+    visibility: visible;
 }
 .header{
     /* position: absolute; */
