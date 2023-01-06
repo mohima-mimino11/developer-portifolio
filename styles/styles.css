@@ -1,6 +1,8 @@
 *{
     margin: 0;
     font-family: 'Open Sans', sans-serif;
+  
+   
 }
 .text-primary{
     color: #FD6E0A;
@@ -32,7 +34,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title{
     font-weight: 800;
@@ -198,7 +200,12 @@ section{
     gap: 100px;
     background: #FFF8F3;
     padding: 130px 200px;
+   
+   
 }
+
+
+
 .contact .section-title{
     text-align: left;
    
