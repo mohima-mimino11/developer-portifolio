@@ -18,8 +18,18 @@
     color: #FFFFFF;
     
 }
-.btn-primary i{
-    visibility: visible;
+.contact-btn{
+    height: 64px;
+   
+    font-weight: 700;
+    font-size: 20px;
+    padding: 18px 35px;
+    margin-left: 15px;
+    background-color: #FFFFFF;
+    color: #FD6E0A;
+    border: 1px solid #FD6E0A;
+border-radius: 5px;
+
 }
 .header{
     /* position: absolute; */
